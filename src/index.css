@@ -1,0 +1,193 @@
+@import "tailwindcss";
+@import "mapbox-gl/dist/mapbox-gl.css";
+
+@layer base {
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+@keyframes stickerFadeIn {
+  from { opacity: 0; filter: blur(10px); }
+  to   { opacity: 1; filter: blur(0); }
+}
+@keyframes stickerBobIn {
+  from { translate: 0 40px; }
+  to   { translate: 0 0; }
+}
+
+@keyframes slideContentFromRight {
+  from { transform: translateX(48px); opacity: 0; }
+  to   { transform: translateX(0);    opacity: 1; }
+}
+@keyframes slideContentFromLeft {
+  from { transform: translateX(-48px); opacity: 0; }
+  to   { transform: translateX(0);     opacity: 1; }
+}
+
+@keyframes slideInRight {
+  from { transform: translateX(calc(100% + 20px)); }
+  to   { transform: translateX(0); }
+}
+
+@keyframes slideOutRight {
+  from { transform: translateX(0); }
+  to   { transform: translateX(calc(100% + 20px)); }
+}
+
+@keyframes backdropIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@keyframes backdropOut {
+  from { opacity: 1; }
+  to   { opacity: 0; }
+}
+
+/* ── Hero sticker scaling ── */
+@media (min-width: 480px) and (max-width: 599px) {
+  .sticker-group {
+    transform: scale(0.78);
+    transform-origin: top center;
+    margin-bottom: -12px;
+  }
+}
+@media (max-width: 479px) {
+  .sticker-group {
+    transform: scale(0.60);
+    transform-origin: top center;
+    margin-bottom: -43px;
+  }
+}
+
+@keyframes slideUpSheet {
+  from { transform: translateY(100%); }
+  to   { transform: translateY(0); }
+}
+
+@keyframes slideDownSheet {
+  from { transform: translateY(0); }
+  to   { transform: translateY(100%); }
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background: #ffffff;
+  color: #1e293b;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.styled-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(0,0,0,0.10) transparent;
+}
+.styled-scrollbar::-webkit-scrollbar {
+  width: 4px;
+}
+.styled-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+.styled-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(0,0,0,0.10);
+  border-radius: 99px;
+}
+.styled-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: rgba(0,0,0,0.18);
+}
+
+/* Mapbox dark frosted popup */
+.dark-popup .mapboxgl-popup-content {
+  background: rgba(15, 20, 30, 0.55);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-radius: 14px;
+  padding: 10px 14px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+  width: max-content;
+}
+.dark-popup .mapboxgl-popup-tip {
+  display: none;
+}
+
+/* Mapbox zoom controls — frosted glass style */
+.mapboxgl-ctrl-group {
+  background: rgba(255,255,255,0.75) !important;
+  backdrop-filter: blur(20px) !important;
+  -webkit-backdrop-filter: blur(20px) !important;
+  border: 1px solid rgba(255,255,255,0.6) !important;
+  box-shadow: 0 20px 25px -5px rgba(0,0,0,0.1), 0 8px 10px -6px rgba(0,0,0,0.1) !important;
+  border-radius: 14px !important;
+  overflow: hidden;
+}
+.mapboxgl-ctrl-group button {
+  background: transparent !important;
+}
+.mapboxgl-ctrl-group button:hover {
+  background: rgba(255,255,255,0.5) !important;
+}
+.mapboxgl-ctrl-group button + button {
+  border-top: 1px solid rgba(0,0,0,0.06) !important;
+}
+
+.list-card {
+  box-shadow: 0 0 1px rgba(66,71,76,0.32), 0 8px 48px #eeeeee;
+  transition: box-shadow 0.08s ease, transform 0.08s cubic-bezier(0.32,0.72,0,1);
+}
+
+.list-card:hover {
+  box-shadow: 0 0 1px rgba(66,71,76,0.32), 0 12px 48px rgba(0,0,0,0.08);
+  transform: translateY(-2px);
+  transition: box-shadow 0.20s ease, transform 0.20s ease;
+}
+
+.grid-card {
+  filter: drop-shadow(0 0 1px rgba(66,71,76,0.32)) drop-shadow(0 8px 48px #eeeeee);
+  transition: filter 0.08s ease, transform 0.08s cubic-bezier(0.32,0.72,0,1);
+}
+
+.grid-card:hover {
+  filter: drop-shadow(0 0 1px rgba(66,71,76,0.32)) drop-shadow(0 16px 48px rgba(0,0,0,0.10));
+  transform: translateY(-4px);
+  transition: filter 0.20s ease, transform 0.20s ease;
+}
+
+/* ── Hover variant demos ── */
+.hover-base {
+  box-shadow: 0 0 1px rgba(66,71,76,0.32), 0 8px 48px #eeeeee;
+  transition: box-shadow 0.18s ease, transform 0.18s ease, filter 0.18s ease;
+  border-radius: 16px;
+}
+
+/* 1 — Lift */
+.hover-v1:hover { transform: translateY(-4px); box-shadow: 0 0 1px rgba(66,71,76,0.32), 0 16px 48px rgba(0,0,0,0.10); }
+
+/* 2 — Scale */
+.hover-v2:hover { transform: scale(1.02); box-shadow: 0 0 1px rgba(66,71,76,0.32), 0 12px 40px rgba(0,0,0,0.10); }
+
+/* 3 — Lift + scale */
+.hover-v3:hover { transform: translateY(-3px) scale(1.01); box-shadow: 0 0 1px rgba(66,71,76,0.32), 0 16px 48px rgba(0,0,0,0.12); }
+
+/* 4 — Shadow only */
+.hover-v4:hover { box-shadow: 0 0 1px rgba(66,71,76,0.32), 0 8px 48px #eeeeee, 0 8px 32px rgba(0,0,0,0.10); }
+
+/* 5 — Border ring */
+.hover-v5:hover { box-shadow: 0 0 1px rgba(66,71,76,0.32), 0 8px 48px #eeeeee, 0 0 0 2px #000; }
+
+/* 6 — Glow warm */
+.hover-v6:hover { box-shadow: 0 0 1px rgba(66,71,76,0.32), 0 8px 48px rgba(255,139,15,0.20), 0 4px 24px rgba(255,139,15,0.15); }
+
+/* 7 — Glow cool */
+.hover-v7:hover { box-shadow: 0 0 1px rgba(66,71,76,0.32), 0 8px 48px rgba(99,102,241,0.18), 0 4px 24px rgba(99,102,241,0.12); }
+
+/* 8 — Lift subtle */
+.hover-v8:hover { transform: translateY(-2px); box-shadow: 0 0 1px rgba(66,71,76,0.32), 0 12px 48px rgba(0,0,0,0.08); }
+
+/* 9 — Dark glow */
+.hover-v9:hover { box-shadow: 0 0 1px rgba(66,71,76,0.32), 0 8px 48px #eeeeee, 0 8px 24px rgba(66,71,76,0.16); }
+
+/* 10 — Lift + border ring */
+.hover-v10:hover { transform: translateY(-3px); box-shadow: 0 0 0 1.5px rgba(0,0,0,0.12), 0 16px 40px rgba(0,0,0,0.10); }
