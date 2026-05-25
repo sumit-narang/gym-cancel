@@ -112,13 +112,13 @@ export default function Home() {
       <div className="text-center px-4 pt-6 min-[600px]:pt-10 pb-6 min-[480px]:pb-8 min-[600px]:pb-10 md:pb-[72px]">
         <div className="sticker-group flex items-center justify-center mb-6 gap-0" style={{ perspective: '800px' }}>
           <div style={{ marginRight: -24, marginTop: 24 }}>
-            <HoloSticker size={109} rotate="0deg" delay={0} icon="exercise.svg" iconInset="31%" />
+            <HoloSticker size={109} rotate="0deg" delay={0} icon="exercise.svg" iconMode="both" iconInset="27%" />
           </div>
           <div style={{ zIndex: 1 }}>
-            <HoloSticker size={147} rotate="2deg" delay={80} icon="bar.svg" />
+            <HoloSticker size={147} rotate="2deg" delay={80} icon="bar.svg" iconMode="both" iconInset="24%" />
           </div>
           <div style={{ marginLeft: -24, marginTop: 20 }}>
-            <HoloSticker size={116} rotate="0deg" delay={160} icon="kettle.svg" iconInset="30%" />
+            <HoloSticker size={116} rotate="0deg" delay={160} icon="kettle.svg" iconMode="both" iconInset="25%" />
           </div>
         </div>
         <h1 className="text-xl min-[480px]:text-2xl min-[600px]:text-3xl font-bold" style={{ color: '#000', letterSpacing: '-0.5px' }}>Cancel Gym Membership</h1>
@@ -156,7 +156,7 @@ export default function Home() {
                 key={v}
                 ref={el => tabRefs.current[v] = el}
                 onClick={() => changeView(v)}
-                className={`relative z-10 px-3 min-[480px]:px-4 py-1.5 text-xs min-[480px]:text-sm rounded-full cursor-pointer transition-colors duration-[280ms] ${view === v ? 'text-black' : 'text-black/30 hover:text-black/70'}`}
+                className={`relative z-10 px-3 min-[480px]:px-4 py-1.5 text-xs min-[480px]:text-sm font-medium rounded-full cursor-pointer transition-colors duration-[280ms] ${view === v ? 'text-black' : 'text-black/30 hover:text-black/70'}`}
               >
                 {v.charAt(0).toUpperCase() + v.slice(1)}
               </button>
@@ -304,6 +304,6 @@ export default function Home() {
         </div>
       </>
     )}
-    </>
+</>
   )
 }

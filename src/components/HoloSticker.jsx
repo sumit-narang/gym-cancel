@@ -2,10 +2,12 @@ import { useRef, useEffect } from 'react'
 
 const PATTERN_TEXT = 'Gym '.repeat(300)
 
-export default function HoloSticker({ size = 198, rotate = '0deg', delay = 0, icon = 'exercise.svg', iconInset = '24%' }) {
+export default function HoloSticker({ size = 198, rotate = '0deg', delay = 0, icon = 'exercise.svg', iconInset = '24%', iconMode = 'mask' }) {
   const ref = useRef(null)
   const hovering = useRef(false)
   const t = useRef(Math.random() * Math.PI * 2)
+  const freqX = useRef(0.5 + Math.random() * 0.6)
+  const freqY = useRef(0.3 + Math.random() * 0.5)
 
   useEffect(() => {
     let raf
@@ -13,8 +15,8 @@ export default function HoloSticker({ size = 198, rotate = '0deg', delay = 0, ic
     function tick() {
       if (!hovering.current) {
         t.current += 0.006
-        const x = 50 + Math.sin(t.current * 0.7)  * 28
-        const y = 50 + Math.cos(t.current * 0.43) * 22
+        const x = 50 + Math.sin(t.current * freqX.current) * 28
+        const y = 50 + Math.cos(t.current * freqY.current) * 22
         const el = ref.current
         if (el) {
           const xPct = (x - 50) / 50
@@ -177,6 +179,13 @@ export default function HoloSticker({ size = 198, rotate = '0deg', delay = 0, ic
         {/* Kettlebell — hologram effect masked to kettle shape */}
         {(() => {
           const src = `${import.meta.env.BASE_URL}${icon}`
+          if (iconMode === 'image') {
+            return (
+              <div style={{ position: 'absolute', inset: iconInset, zIndex: 6, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                <img src={src} style={{ width: '100%', height: '100%', objectFit: 'contain' }} alt="" />
+              </div>
+            )
+          }
           const kettleMask = {
             WebkitMaskImage: `url("${src}")`,
             maskImage: `url("${src}")`,
@@ -235,6 +244,16 @@ export default function HoloSticker({ size = 198, rotate = '0deg', delay = 0, ic
                 mixBlendMode: 'soft-light',
                 opacity: 'calc(var(--o) * 0.9)',
               }} />
+              {/* Own-color image on top, blended with multiply so SVG colors modulate the holo */}
+              {iconMode === 'both' && (
+                <img src={src} alt="" style={{
+                  position: 'absolute', inset: 0,
+                  width: '100%', height: '100%',
+                  objectFit: 'contain',
+                  mixBlendMode: 'multiply',
+                  opacity: 0.75,
+                }} />
+              )}
             </div>
           )
         })()}
