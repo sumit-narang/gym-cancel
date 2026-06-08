@@ -99,14 +99,14 @@ body {
   background: rgba(0,0,0,0.18);
 }
 
-/* Mapbox dark frosted popup */
+/* Mapbox dark popup */
 .dark-popup .mapboxgl-popup-content {
-  background: rgba(15, 20, 30, 0.55);
-  backdrop-filter: blur(20px);
-  -webkit-backdrop-filter: blur(20px);
+  background: rgba(50, 55, 65, 0.72);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
   border-radius: 14px;
   padding: 10px 14px;
-  box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.25);
   width: max-content;
 }
 .dark-popup .mapboxgl-popup-tip {

@@ -51,13 +51,13 @@ export default function GymMap({ gyms, onSelect }) {
       const color = markerColor(gym.difficulty_score)
 
       const el = document.createElement('div')
-      el.style.cssText = 'width: 14px; height: 14px; cursor: pointer;'
+      el.style.cssText = 'width: 18px; height: 18px; cursor: pointer;'
 
       const dot = document.createElement('div')
       dot.style.cssText = `
-        width: 14px; height: 14px;
+        width: 18px; height: 18px;
         background: ${color};
-        border: 2px solid white;
+        border: 2.5px solid white;
         border-radius: 50%;
         box-shadow: 0 1px 4px rgba(0,0,0,0.3);
         transition: transform 0.15s ease;
@@ -69,10 +69,12 @@ export default function GymMap({ gyms, onSelect }) {
         dot.style.transform = 'scale(1.5)'
 
         const label = difficultyLabel(gym.difficulty_score)
+        const rangeMax = gym.difficulty_score <= 3 ? 3 : gym.difficulty_score <= 6 ? 6 : 10
+        const scoreStr = gym.difficulty_score != null ? `${gym.difficulty_score}/${rangeMax}` : ''
         const html = `
           <div style="font-family: Inter, sans-serif;">
-            <div style="font-weight: 600; font-size: 14px; color: #fff; letter-spacing: -0.3px;">${gym.gym_name}</div>
-            ${label ? `<div style="font-size: 12px; color: rgba(255,255,255,0.55); margin-top: 0px; letter-spacing: -0.3px;">${label} · ${gym.difficulty_score}/10</div>` : ''}
+            <div style="font-weight: 600; font-size: 15px; color: #fff; letter-spacing: -0.3px;">${gym.gym_name}</div>
+            ${label ? `<div style="font-size: 13px; font-weight: 500; color: rgba(255,255,255,0.55); margin-top: 2px; letter-spacing: -0.3px;">${label} · <span style="font-size: 12px; font-weight: 500;">${scoreStr}</span></div>` : ''}
           </div>
         `
 
@@ -119,14 +121,15 @@ export default function GymMap({ gyms, onSelect }) {
         }}
       >
         {[
-          { label: 'Easy (0-3)',     color: 'rgb(8,149,43)' },
-          { label: 'Moderate (4-6)', color: 'rgb(231,124,10)' },
-          { label: 'Hard (7-10)',    color: '#F83636' },
-          { label: 'Unknown',        color: '#94a3b8' },
-        ].map(({ label, color }) => (
+          { label: 'Easy',     range: '0-3',  color: 'rgb(8,149,43)' },
+          { label: 'Moderate', range: '4-6',  color: 'rgb(231,124,10)' },
+          { label: 'Hard',     range: '7-10', color: '#F83636' },
+          { label: 'Unknown',  range: 'N/A',  color: '#94a3b8' },
+        ].map(({ label, range, color }) => (
           <div key={label} style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
             <span style={{ width: 10, height: 10, borderRadius: '50%', background: color, flexShrink: 0 }} />
-            <span style={{ fontSize: 13, color: '#1e293b', letterSpacing: '-0.3px', fontFamily: 'Inter, sans-serif', fontWeight: 500 }}>{label}</span>
+            <span style={{ fontSize: 13, color: '#1e293b', letterSpacing: '-0.3px', fontFamily: 'Inter, sans-serif', fontWeight: 500, flex: 1 }}>{label}</span>
+            <span style={{ fontSize: 13, color: '#7E838A', letterSpacing: '-0.3px', fontFamily: 'Inter, sans-serif', fontWeight: 500 }}>{range}</span>
           </div>
         ))}
       </div>
