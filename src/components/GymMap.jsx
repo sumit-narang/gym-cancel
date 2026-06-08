@@ -69,8 +69,7 @@ export default function GymMap({ gyms, onSelect }) {
         dot.style.transform = 'scale(1.5)'
 
         const label = difficultyLabel(gym.difficulty_score)
-        const rangeMax = gym.difficulty_score <= 3 ? 3 : gym.difficulty_score <= 6 ? 6 : 10
-        const scoreStr = gym.difficulty_score != null ? `${gym.difficulty_score}/${rangeMax}` : ''
+        const scoreStr = gym.difficulty_score != null ? `${gym.difficulty_score}/10` : ''
         const html = `
           <div style="font-family: Inter, sans-serif;">
             <div style="font-weight: 600; font-size: 15px; color: #fff; letter-spacing: -0.3px;">${gym.gym_name}</div>
