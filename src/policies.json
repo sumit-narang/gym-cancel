@@ -67,8 +67,8 @@
     "pricing_visible_online": true,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "Membership starts at \u20ac99 per month with no long-term commitment \u2014 you pay one month at a time.",
-      "A 14-day trial is available for \u20ac99, which includes 12 session credits and a 1-1 induction.",
+      "Membership starts at €99 per month with no long-term commitment, you pay one month at a time.",
+      "A 14-day trial is available for €99, which includes 12 session credits and a 1-1 induction.",
       "If you change your mind after signing up for the trial, a refund is offered with no hassle or questions asked.",
       "Cancellation process and notice period requirements are not clearly stated on the website."
     ],
@@ -116,9 +116,9 @@
     "pricing_visible_online": false,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "Pricing is not publicly listed on the website \u2014 you must visit or contact a local club to find out membership costs.",
+      "Pricing is not publicly listed on the website, you must visit or contact a local club to find out membership costs.",
       "A cancellation request form exists on the website, but no details are provided about notice periods, lock-in terms, or cancellation conditions.",
-      "The Terms of Use page covers only website usage, not membership contract terms \u2014 actual membership T&Cs are not publicly accessible.",
+      "The Terms of Use page covers only website usage, not membership contract terms, actual membership T&Cs are not publicly accessible.",
       "As a franchise operation, terms may vary by individual club, making it difficult to assess conditions centrally."
     ],
     "dark_pattern_flags": [
@@ -133,7 +133,7 @@
     "website": "https://www.anytimefitness.co.uk/gyms/UK-0049/co-dublin-dublin/",
     "lat": 53.2823823,
     "lng": -6.1502731,
-    "address": "Kill Avenue D\u00fan Laoghaire",
+    "address": "Kill Avenue Dún Laoghaire",
     "google_maps_url": "https://www.google.com/maps?q=53.2823823,-6.1502731",
     "image_url": null,
     "image_urls": [
@@ -165,9 +165,9 @@
     "pricing_visible_online": false,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "Pricing is not displayed on the website \u2014 you must visit the Clubwise signup portal to see membership costs.",
+      "Pricing is not displayed on the website, you must visit the Clubwise signup portal to see membership costs.",
       "A cancellation request page exists on the Anytime Fitness UK site, suggesting an online process, but no specific terms or conditions for this gym are publicly available.",
-      "The Terms of Use page covers only website usage, not membership contracts \u2014 no membership-specific cancellation, notice period, or lock-in information was found.",
+      "The Terms of Use page covers only website usage, not membership contracts, no membership-specific cancellation, notice period, or lock-in information was found.",
       "This is a franchise location in Dublin, Ireland, so terms may differ from the UK parent brand and are not clearly disclosed online."
     ],
     "dark_pattern_flags": [
@@ -254,8 +254,8 @@
     "pricing_visible_online": true,
     "terms_easily_found": true,
     "plain_english_summary": [
-      "Monthly membership costs \u20ac36/month with no joining fee and no contract \u2014 cancel anytime.",
-      "Prepaid options are also available: 6 months for \u20ac199 or 12 months for \u20ac299 as one-off payments.",
+      "Monthly membership costs €36/month with no joining fee and no contract, cancel anytime.",
+      "Prepaid options are also available: 6 months for €199 or 12 months for €299 as one-off payments.",
       "Classes are included in all membership tiers along with free car parking.",
       "Cancellation process and notice period details are not clearly stated on the website."
     ],
@@ -300,8 +300,8 @@
     "pricing_visible_online": true,
     "terms_easily_found": true,
     "plain_english_summary": [
-      "Monthly membership costs \u20ac36/month with no joining fee and no contract \u2014 cancel anytime.",
-      "Fixed-term options are also available: 6 months for \u20ac199 or 12 months for \u20ac299 as one-off payments.",
+      "Monthly membership costs €36/month with no joining fee and no contract, cancel anytime.",
+      "Fixed-term options are also available: 6 months for €199 or 12 months for €299 as one-off payments.",
       "Classes and free car parking are included with all membership types.",
       "Cancellation process and notice period details are not clearly stated on the website."
     ],
@@ -346,8 +346,8 @@
     "pricing_visible_online": true,
     "terms_easily_found": true,
     "plain_english_summary": [
-      "Monthly membership is \u20ac36/month with no joining fee and no contract \u2014 cancel anytime.",
-      "6-month and annual prepaid options are available at \u20ac199 and \u20ac299 respectively.",
+      "Monthly membership is €36/month with no joining fee and no contract, cancel anytime.",
+      "6-month and annual prepaid options are available at €199 and €299 respectively.",
       "Classes are included with all membership types, along with free car parking.",
       "Cancellation process and notice period details are not clearly stated on the website."
     ],
@@ -438,10 +438,10 @@
     "pricing_visible_online": true,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "Monthly membership is \u20ac59.95/month with a \u20ac15 sign-up fee and 14 days' notice to cancel.",
+      "Monthly membership is €59.95/month with a €15 sign-up fee and 14 days' notice to cancel.",
       "Auto-renewal is applied to memberships; longer-term contract options (12 and 24 months) are also available at lower monthly rates.",
       "Terms, conditions, and membership policy pages exist on the website but appear to have no content loaded.",
-      "Cancellation method is not explicitly stated \u2014 no email, form, or process is described on the site."
+      "Cancellation method is not explicitly stated, no email, form, or process is described on the site."
     ],
     "dark_pattern_flags": [
       "auto_renewal",
@@ -536,8 +536,8 @@
     "terms_easily_found": false,
     "plain_english_summary": [
       "Bodybyrne is a premium personal training studio in Dublin city centre, not a traditional gym membership model.",
-      "Session pricing is visible online (e.g. \u20ac80 per PT session, \u20ac120 initial consultation), but no membership or contract terms are published.",
-      "All terms, cancellation, FAQ, and contract pages return 404 errors \u2014 no policy information is available on the website.",
+      "Session pricing is visible online (e.g. €80 per PT session, €120 initial consultation), but no membership or contract terms are published.",
+      "All terms, cancellation, FAQ, and contract pages return 404 errors, no policy information is available on the website.",
       "Prospective clients must contact the studio directly to understand any contractual obligations or cancellation procedures."
     ],
     "dark_pattern_flags": [
@@ -631,9 +631,9 @@
     "terms_easily_found": true,
     "plain_english_summary": [
       "Rolling monthly membership that auto-renews on the 1st of each month; you must notify cancellation at least 72 hours before the next billing date or you will be charged for the following month.",
-      "A registration/joining fee of \u20ac20 applies on sign-up and again if your membership lapses due to non-payment.",
-      "Membership can be paused for up to 30 days per 12-month period with at least 72 hours' notice; a \u20ac10 pause fee applies for adult classes.",
-      "Late payments incur a \u20ac10 fee and access suspension; failure to pay within 21 days results in full cancellation and a new joining fee to rejoin."
+      "A registration/joining fee of €20 applies on sign-up and again if your membership lapses due to non-payment.",
+      "Membership can be paused for up to 30 days per 12-month period with at least 72 hours' notice; a €10 pause fee applies for adult classes.",
+      "Late payments incur a €10 fee and access suspension; failure to pay within 21 days results in full cancellation and a new joining fee to rejoin."
     ],
     "dark_pattern_flags": [
       "auto_renewal",
@@ -678,9 +678,9 @@
     "pricing_visible_online": true,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "Monthly memberships are available from \u20ac160/month (8 credits) or \u20ac220/month (12 credits), usable across both studio locations.",
+      "Monthly memberships are available from €160/month (8 credits) or €220/month (12 credits), usable across both studio locations.",
       "A dedicated cancellation page exists at breathingspacedublin.com/cancelling, but its contents were not accessible during extraction.",
-      "The T&Cs page is linked in the navigation but the actual terms content could not be retrieved \u2014 multiple URL attempts returned 404 errors.",
+      "The T&Cs page is linked in the navigation but the actual terms content could not be retrieved, multiple URL attempts returned 404 errors.",
       "No information on joining fees, notice periods, freeze policy, or cancellation method was explicitly available in the scraped content."
     ],
     "dark_pattern_flags": [
@@ -728,7 +728,7 @@
     "pricing_visible_online": false,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "Membership pricing is not published online \u2014 you must contact the health club directly by phone or email for details.",
+      "Membership pricing is not published online, you must contact the health club directly by phone or email for details.",
       "No cancellation policy, contract terms, or notice period information is available on the website.",
       "Membership enquiries can be directed to healthclub@camdencourthotel.ie or by calling (01) 428 3906.",
       "A complimentary PT session and workout plan are included with membership; a referral scheme offers one month free."
@@ -775,8 +775,8 @@
     "pricing_visible_online": true,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "Monthly membership costs \u20ac125 for adults, with discounted rates of \u20ac90 for students, over 65s, and those on income support.",
-      "A one-time joining fee of \u20ac65 applies to all new members, covering an individual assessment session.",
+      "Monthly membership costs €125 for adults, with discounted rates of €90 for students, over 65s, and those on income support.",
+      "A one-time joining fee of €65 applies to all new members, covering an individual assessment session.",
       "Quarterly and annual membership options are available at reduced per-month rates compared to monthly membership.",
       "No cancellation policy, terms and conditions, or contract details are publicly available on the website."
     ],
@@ -866,7 +866,7 @@
     "pricing_visible_online": false,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "The Complete Body Movement website is not active \u2014 it shows only a domain parking page from LetsHost.",
+      "The Complete Body Movement website is not active, it shows only a domain parking page from LetsHost.",
       "No membership pricing, terms, or cancellation information is available on the website.",
       "All subpages including membership, terms, cancellation, and FAQ return the same placeholder page.",
       "Prospective members would need to contact the gym directly to obtain any policy information."
@@ -1097,7 +1097,7 @@
     "pricing_visible_online": true,
     "terms_easily_found": true,
     "plain_english_summary": [
-      "Memberships are billed every 4 weeks \u2014 Unlimited at $240/cycle and 3x/Week at $209/cycle, with a higher first-period fee of $350 that includes onboarding sessions.",
+      "Memberships are billed every 4 weeks, Unlimited at $240/cycle and 3x/Week at $209/cycle, with a higher first-period fee of $350 that includes onboarding sessions.",
       "A 30-day written cancellation notice is required; cancellation can be submitted via email, online form, in-person, or postal mail.",
       "Membership freezes (holds) are available up to 3 times per year, must be at least 2 weeks long, and billing resumes automatically after the hold ends.",
       "No joining fee or annual fee is explicitly stated, and cancellation policies are clearly published on dedicated pages on the website."
@@ -1148,7 +1148,7 @@
     "plain_english_summary": [
       "Cancellation requires a minimum of 14 days notice and must be submitted via the online cancellation form on the website.",
       "Membership holds are available but only for medical or emergency reasons.",
-      "Pricing is not publicly visible on the website \u2014 you must navigate to specific membership pages which were not captured in the provided content.",
+      "Pricing is not publicly visible on the website, you must navigate to specific membership pages which were not captured in the provided content.",
       "Terms & Conditions page is linked in the footer but the terms URL returned a 404 error, making full policy details inaccessible."
     ],
     "dark_pattern_flags": [
@@ -1194,7 +1194,7 @@
     "terms_easily_found": false,
     "plain_english_summary": [
       "No membership pricing, contract terms, or cancellation policy information is visible on the website content provided.",
-      "A 'Tribe Trial' is advertised at \u20ac33 for 3 classes, but no details on full membership costs are shown.",
+      "A 'Tribe Trial' is advertised at €33 for 3 classes, but no details on full membership costs are shown.",
       "A Policies page exists in the navigation (crossfitsantry.com/policies) but its contents were not captured.",
       "Prospective members would need to contact the gym directly to understand membership terms and cancellation conditions."
     ],
@@ -1239,10 +1239,10 @@
     "pricing_visible_online": false,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "Pricing is not publicly listed \u2014 you must enquire or join online to find out membership costs.",
+      "Pricing is not publicly listed, you must enquire or join online to find out membership costs.",
       "A 3-month introductory membership is advertised, suggesting a minimum lock-in of 3 months.",
       "Terms and conditions are linked as a PDF from the footer but are not summarised on the site.",
-      "Cancellation policy details are not accessible on the website \u2014 the cancellation page returns a 404 error."
+      "Cancellation policy details are not accessible on the website, the cancellation page returns a 404 error."
     ],
     "dark_pattern_flags": [
       "buried_terms",
@@ -1378,8 +1378,8 @@
     "terms_easily_found": true,
     "plain_english_summary": [
       "Memberships require a 3-month minimum contract and auto-renew on the same date each month after that.",
-      "Three membership tiers available: monthly 8 (\u20ac164), monthly 12 (\u20ac228), and monthly 16 (\u20ac272) credits per month.",
-      "Class packs (no membership) are also available as a flexible alternative, with prices from \u20ac25 per class up to \u20ac18.50 per class for a 20-pack.",
+      "Three membership tiers available: monthly 8 (€164), monthly 12 (€228), and monthly 16 (€272) credits per month.",
+      "Class packs (no membership) are also available as a flexible alternative, with prices from €25 per class up to €18.50 per class for a 20-pack.",
       "Cancellation of unused class packs is allowed within 7 working days of purchase by notifying Echelon in writing or by email; no cancellation policy for memberships after the lock-in period is explicitly stated."
     ],
     "dark_pattern_flags": [
@@ -1425,7 +1425,7 @@
     "pricing_visible_online": false,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "No membership pricing is publicly visible on the website \u2014 you must contact the gym directly for details.",
+      "No membership pricing is publicly visible on the website, you must contact the gym directly for details.",
       "Cancellation, contract type, and notice period terms are not disclosed on the website.",
       "Membership appears to be limited and by enquiry only, suggesting a premium or exclusive model.",
       "A Terms & Conditions page is linked in the footer but its content was not available in the crawled text."
@@ -1568,7 +1568,7 @@
     "pricing_visible_online": false,
     "terms_easily_found": true,
     "plain_english_summary": [
-      "This is a personal training education course provider, not a gym membership \u2014 pricing is not publicly listed and requires an application/interview call.",
+      "This is a personal training education course provider, not a gym membership, pricing is not publicly listed and requires an application/interview call.",
       "Cancellations more than 30 days before the course start date receive a full refund minus an admin fee; within 30 days, no refund is given but you can transfer to a future date.",
       "No refunds are issued once the course has started.",
       "All cancellation requests must be submitted in writing to info@elitefpa.ie."
@@ -1666,7 +1666,7 @@
     "pricing_visible_online": true,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "No contract memberships available from \u20ac29.99/month, with options up to \u20ac59.99/month",
+      "No contract memberships available from €29.99/month, with options up to €59.99/month",
       "Membership freeze is advertised as available 'anytime' on the Classic plan, with no fee mentioned",
       "No cancellation process, notice period, or terms and conditions are visible on the website",
       "Pricing is clearly displayed online but details around fees, auto-renewal, and cancellation are absent"
@@ -1760,7 +1760,7 @@
     "pricing_visible_online": true,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "12-month memberships are available ranging from \u20ac79 to \u20ac149/month depending on session frequency; early cancellation is not expected and the contract binds you for its full duration.",
+      "12-month memberships are available ranging from €79 to €149/month depending on session frequency; early cancellation is not expected and the contract binds you for its full duration.",
       "A rolling month-to-month option exists but costs 15% more than the equivalent 12-month plan.",
       "No dedicated cancellation page or process is published; the terms-and-conditions page covers website use only, not membership cancellation.",
       "Pricing tiers are visible on the FAQ page, but key membership terms such as notice periods, freeze policies and cancellation methods are not clearly documented online."
@@ -1893,9 +1893,9 @@
     "pricing_visible_online": false,
     "terms_easily_found": true,
     "plain_english_summary": [
-      "Exofit is a personal training and small group training studio in Ballsbridge, Dublin 4 \u2014 not a traditional gym membership model.",
+      "Exofit is a personal training and small group training studio in Ballsbridge, Dublin 4, not a traditional gym membership model.",
       "Sessions are sold as packages; cancellations or reschedules must be made at least 24 hours in advance or the session is forfeited from your package.",
-      "A \u20ac55 fee applies if a complimentary trial session is cancelled within 24 hours and you wish to rebook.",
+      "A €55 fee applies if a complimentary trial session is cancelled within 24 hours and you wish to rebook.",
       "Pricing is not publicly listed on the website; you must contact the studio directly for package rates."
     ],
     "dark_pattern_flags": [
@@ -1940,7 +1940,7 @@
     "pricing_visible_online": false,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "Experience Gaelic Games is a pay-per-session activity experience, not a gym membership \u2014 no subscription or contract terms were found.",
+      "Experience Gaelic Games is a pay-per-session activity experience, not a gym membership, no subscription or contract terms were found.",
       "Pricing is not publicly visible on the website; bookings are made through an external platform (Checkfront).",
       "No cancellation, refund, or terms and conditions policy information is present on the website.",
       "The service appears to be a one-off cultural sports experience for tourists and groups, with no recurring membership model."
@@ -1987,8 +1987,8 @@
     "pricing_visible_online": false,
     "terms_easily_found": true,
     "plain_english_summary": [
-      "Pricing is not listed online \u2014 you must contact your local F45 studio directly for membership costs as each studio is independently owned.",
-      "Cancellation can be submitted via an online form on the website, but the local studio must verify and process it \u2014 it is not immediate.",
+      "Pricing is not listed online, you must contact your local F45 studio directly for membership costs as each studio is independently owned.",
+      "Cancellation can be submitted via an online form on the website, but the local studio must verify and process it, it is not immediate.",
       "Early termination fees and notice periods may apply depending on your individual membership contract terms.",
       "Membership is generally tied to a single home studio, though some membership types allow limited visits to other studios via Passporting."
     ],
@@ -2037,7 +2037,7 @@
     "pricing_visible_online": false,
     "terms_easily_found": true,
     "plain_english_summary": [
-      "Pricing is not listed online \u2014 you must contact your local F45 studio directly for membership costs.",
+      "Pricing is not listed online, you must contact your local F45 studio directly for membership costs.",
       "Cancellation can be requested via an online form on the website, but it is not immediate and must be verified by the local studio team.",
       "Early termination fees and notice periods may apply depending on your individual membership terms, but specifics are not published online.",
       "F45 is a franchise, so membership terms, pricing, and cancellation policies can vary by location."
@@ -2087,8 +2087,8 @@
     "pricing_visible_online": false,
     "terms_easily_found": true,
     "plain_english_summary": [
-      "Pricing is not published online \u2014 you must contact your local F45 Granegorman studio directly to find out membership costs.",
-      "Cancellation can be submitted via an online form on the website, but the membership is not immediately cancelled \u2014 the local studio must verify and process the request.",
+      "Pricing is not published online, you must contact your local F45 Granegorman studio directly to find out membership costs.",
+      "Cancellation can be submitted via an online form on the website, but the membership is not immediately cancelled, the local studio must verify and process the request.",
       "Early termination fees and notice periods may apply depending on your specific membership terms, but these are not disclosed publicly.",
       "F45 is a franchise, so terms, pricing, and cancellation conditions can vary by studio and are not standardised online."
     ],
@@ -2137,9 +2137,9 @@
     "pricing_visible_online": false,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "Cancellation is submitted via an online form, but is not immediate \u2014 it must be verified by the local studio team before being processed.",
+      "Cancellation is submitted via an online form, but is not immediate, it must be verified by the local studio team before being processed.",
       "Early termination fees may apply depending on your individual membership terms, but no specific amounts are stated publicly.",
-      "Pricing, contract length, and notice period details are not available on the website \u2014 the studio page returns a 404 error.",
+      "Pricing, contract length, and notice period details are not available on the website, the studio page returns a 404 error.",
       "Terms and conditions are linked in the footer but membership-specific details are not disclosed publicly online."
     ],
     "dark_pattern_flags": [
@@ -2187,7 +2187,7 @@
     "pricing_visible_online": false,
     "terms_easily_found": true,
     "plain_english_summary": [
-      "Pricing is not published online \u2014 you must contact your local studio directly for membership costs.",
+      "Pricing is not published online, you must contact your local studio directly for membership costs.",
       "Cancellation can be submitted via an online form on the website, but is not immediate and must be verified by the local studio.",
       "Early termination fees and notice periods may apply depending on your membership terms, but specifics are not disclosed publicly.",
       "F45 is a franchise, so membership terms, pricing, and policies can vary by location."
@@ -2281,9 +2281,9 @@
     "pricing_visible_online": true,
     "terms_easily_found": true,
     "plain_english_summary": [
-      "Monthly memberships start at \u20ac38 for one gym or \u20ac41 for all 22 gyms, with a \u20ac25 joining fee on top.",
+      "Monthly memberships start at €38 for one gym or €41 for all 22 gyms, with a €25 joining fee on top.",
       "FlyeFit markets itself as 'no contract', suggesting a rolling monthly arrangement with no long-term lock-in.",
-      "Annual and 3-month prepay options are available (e.g. \u20ac355/year for one gym), but cancellation and notice period details are not provided in the scraped content.",
+      "Annual and 3-month prepay options are available (e.g. €355/year for one gym), but cancellation and notice period details are not provided in the scraped content.",
       "The Terms & Conditions page exists in the footer but the full content was not accessible in the provided text, leaving cancellation procedures unclear."
     ],
     "dark_pattern_flags": [
@@ -2419,7 +2419,7 @@
     "pricing_visible_online": true,
     "terms_easily_found": true,
     "plain_english_summary": [
-      "Monthly membership starts at \u20ac38 for one gym or \u20ac41 for all 22 gyms, plus a \u20ac25 joining fee",
+      "Monthly membership starts at €38 for one gym or €41 for all 22 gyms, plus a €25 joining fee",
       "The gym advertises 'no contract' flexibility, suggesting a rolling monthly arrangement",
       "Cancellation process, notice period, and freeze policy are not detailed on the website",
       "Terms & Conditions and a Help Centre are linked in the footer, but cancellation specifics are not visible in the scraped content"
@@ -2646,7 +2646,7 @@
     "pricing_visible_online": null,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "No policy information could be retrieved \u2014 the website blocked all access attempts.",
+      "No policy information could be retrieved, the website blocked all access attempts.",
       "Terms, cancellation, membership, and FAQ pages were all inaccessible.",
       "It is not possible to assess pricing, contract length, or cancellation process from available data.",
       "Prospective members should contact FLYEfit Macken Street directly for full membership terms."
@@ -2784,7 +2784,7 @@
     "pricing_visible_online": true,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "Monthly membership starts at \u20ac38 for one gym or \u20ac41 for all 22 gyms, plus a \u20ac25 joining fee.",
+      "Monthly membership starts at €38 for one gym or €41 for all 22 gyms, plus a €25 joining fee.",
       "The gym markets itself as 'no contract', suggesting a rolling monthly arrangement with no long lock-in.",
       "Annual and 3-month prepaid options are available at a discount, but cancellation terms are not clearly stated on the website.",
       "The Terms & Conditions page returned a 404 error, so detailed cancellation and policy information could not be verified."
@@ -2878,10 +2878,10 @@
     "pricing_visible_online": true,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "A 12-month special offer is advertised at \u20ac399, suggesting a fixed-term annual membership.",
-      "Terms & Conditions and cancellation pages are linked in the footer but return 404 errors \u2014 policy details are inaccessible.",
+      "A 12-month special offer is advertised at €399, suggesting a fixed-term annual membership.",
+      "Terms & Conditions and cancellation pages are linked in the footer but return 404 errors, policy details are inaccessible.",
       "No cancellation method, notice period, or freeze policy is publicly documented on the website.",
-      "Pricing is partially visible (the \u20ac399 annual offer is shown), but full membership options and contract terms are not clearly disclosed."
+      "Pricing is partially visible (the €399 annual offer is shown), but full membership options and contract terms are not clearly disclosed."
     ],
     "dark_pattern_flags": [
       "buried_terms",
@@ -2929,8 +2929,8 @@
     "pricing_visible_online": true,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "Monthly memberships cost \u20ac44 (student) or \u20ac54 (adult) per month, with a joining fee of \u20ac29.99 applicable to all plans.",
-      "An annual membership is available for \u20ac490/year, also with a \u20ac29.99 joining fee.",
+      "Monthly memberships cost €44 (student) or €54 (adult) per month, with a joining fee of €29.99 applicable to all plans.",
+      "An annual membership is available for €490/year, also with a €29.99 joining fee.",
       "Cancellation terms, notice period, and contract details are not clearly stated on the website.",
       "Contact is available by phone or email, but no dedicated cancellation process is described."
     ],
@@ -2977,7 +2977,7 @@
     "pricing_visible_online": true,
     "terms_easily_found": true,
     "plain_english_summary": [
-      "Monthly membership starts from \u20ac59/pm (Cork) or \u20ac69/pm for most clubs including Swords, with an annual option also available (e.g. \u20ac690/year).",
+      "Monthly membership starts from €59/pm (Cork) or €69/pm for most clubs including Swords, with an annual option also available (e.g. €690/year).",
       "Pricing is clearly listed on the website per club, and Terms & Conditions are linked in the footer.",
       "No cancellation method, notice period, or freeze policy is explicitly described in the available website text.",
       "A contact email (hello@gymplus.ie) is available, but specific cancellation instructions are not provided in the extracted content."
@@ -3024,7 +3024,7 @@
     "pricing_visible_online": true,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "Membership starts from \u20ac59 per month, with the site describing it as a monthly membership.",
+      "Membership starts from €59 per month, with the site describing it as a monthly membership.",
       "The Terms & Conditions page returned a 404 error, so specific cancellation and contract terms could not be confirmed.",
       "No information on notice periods, cancellation methods, joining fees, or freeze policies was found in the available text.",
       "Pricing is visible on the website, but key policy details are inaccessible due to missing or broken terms page."
@@ -3073,9 +3073,9 @@
     "pricing_visible_online": true,
     "terms_easily_found": true,
     "plain_english_summary": [
-      "Monthly membership costs \u20ac35.99/month or \u20ac359/year, both with a \u20ac25 joining fee required upfront.",
+      "Monthly membership costs €35.99/month or €359/year, both with a €25 joining fee required upfront.",
       "You must give 10 days written notice before your next billing date (before the 20th of the month) to cancel or you'll be charged for another month.",
-      "Membership can be frozen for 1\u20136 months per year for illness or injury, but a \u20ac5 fee applies and must be requested 10 days before billing.",
+      "Membership can be frozen for 1–6 months per year for illness or injury, but a €5 fee applies and must be requested 10 days before billing.",
       "All fees are non-refundable and you must pay the joining fee again if you re-join after cancelling."
     ],
     "dark_pattern_flags": [
@@ -3124,7 +3124,7 @@
     "terms_easily_found": true,
     "plain_english_summary": [
       "You can cancel anytime but must give written notice at least 10 days before your next billing date (before the 20th of the month), or you will be charged for another month.",
-      "Membership freezes are available for 1\u20136 months per year due to illness, injury, or extenuating circumstances, with a \u20ac5 fee and 10 days' notice required.",
+      "Membership freezes are available for 1–6 months per year due to illness, injury, or extenuating circumstances, with a €5 fee and 10 days' notice required.",
       "All membership fees are non-refundable and non-transferable; if you re-join after cancelling, you must pay the joining fee again.",
       "Cancellation is done via an online form on the website; auto-renewal is enabled by default on subscriptions."
     ],
@@ -3176,8 +3176,8 @@
     "plain_english_summary": [
       "Membership auto-renews monthly on the anniversary date of purchase until you cancel.",
       "To cancel or change membership tier, you must email info@headonboxing.ie and allow 30 days for changes to take effect.",
-      "No formal terms and conditions or cancellation policy page exists on the website \u2014 all relevant pages return 404 errors.",
-      "A new member intro deal costs \u20ac29 for 3 classes; PAYG bundles are valid for 3 months and must be manually renewed, while memberships renew automatically."
+      "No formal terms and conditions or cancellation policy page exists on the website, all relevant pages return 404 errors.",
+      "A new member intro deal costs €29 for 3 classes; PAYG bundles are valid for 3 months and must be manually renewed, while memberships renew automatically."
     ],
     "dark_pattern_flags": [
       "auto_renewal",
@@ -3225,8 +3225,8 @@
     "pricing_visible_online": true,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "Membership auto-renews monthly and requires 30 days notice to cancel \u2014 email info@headonboxing.ie to do so.",
-      "Prices start at \u20ac89/month (Flyweight, 6 classes) up to \u20ac179/month (Heavyweight, 20 classes); PAYG bundles also available.",
+      "Membership auto-renews monthly and requires 30 days notice to cancel, email info@headonboxing.ie to do so.",
+      "Prices start at €89/month (Flyweight, 6 classes) up to €179/month (Heavyweight, 20 classes); PAYG bundles also available.",
       "A 2-week holiday suspension (freeze) is included with Middleweight and Heavyweight tiers at no stated extra cost.",
       "No dedicated terms and conditions page exists on the website; cancellation and membership details are spread across the membership and FAQ pages."
     ],
@@ -3327,9 +3327,9 @@
     "pricing_visible_online": true,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "No contracts, no direct debits, and no joining fees \u2014 memberships are prepaid and straightforward.",
+      "No contracts, no direct debits, and no joining fees, memberships are prepaid and straightforward.",
       "Membership must be purchased in person at reception; there is no online sign-up.",
-      "Pricing is clearly listed on the website: \u20ac49/month, \u20ac135/3 months, with discounts for students, social welfare recipients, hospital staff, and OAPs.",
+      "Pricing is clearly listed on the website: €49/month, €135/3 months, with discounts for students, social welfare recipients, hospital staff, and OAPs.",
       "No cancellation policy is published, but given the prepaid, no-contract model, cancellation is likely simple by not renewing."
     ],
     "dark_pattern_flags": [],
@@ -3373,8 +3373,8 @@
     "pricing_visible_online": true,
     "terms_easily_found": true,
     "plain_english_summary": [
-      "Membership requires a minimum 3-month commitment, with a \u20ac50 cancellation fee if you leave within that period.",
-      "After 3 months, you can cancel by emailing info@yogadublin.com at least 15 days before your next payment date \u2014 no refunds are given for already-billed months.",
+      "Membership requires a minimum 3-month commitment, with a €50 cancellation fee if you leave within that period.",
+      "After 3 months, you can cancel by emailing info@yogadublin.com at least 15 days before your next payment date, no refunds are given for already-billed months.",
       "Payments auto-renew monthly until written cancellation notice is received.",
       "You can freeze your membership up to twice per year for one month at a time, but not within the first 3 months."
     ],
@@ -3423,7 +3423,7 @@
     "terms_easily_found": false,
     "plain_english_summary": [
       "No membership or pricing information is publicly available on the website.",
-      "Terms & Conditions and Privacy Policy links return 404 errors \u2014 no policy content is accessible.",
+      "Terms & Conditions and Privacy Policy links return 404 errors, no policy content is accessible.",
       "The website primarily promotes yoga teacher training courses and retreats, not standard gym memberships.",
       "Contact details are available (phone: 0857387421, email: info@suryayoga.ie) but no cancellation process is described."
     ],
@@ -3470,7 +3470,7 @@
     "terms_easily_found": false,
     "plain_english_summary": [
       "No 12-month contract is advertised, suggesting a flexible rolling membership.",
-      "Membership pricing is not clearly displayed online \u2014 a club tour is required for full details.",
+      "Membership pricing is not clearly displayed online, a club tour is required for full details.",
       "A freeze option is available but no details on fees or duration are provided.",
       "Terms and conditions page returns a 'Nothing Found' error, so full policy details are unavailable."
     ],
@@ -3517,7 +3517,7 @@
     "terms_easily_found": false,
     "plain_english_summary": [
       "No pricing, contract terms, or cancellation policy information is publicly available on the website.",
-      "To join, you must submit a contact form and wait for the team to get in touch \u2014 no self-service sign-up.",
+      "To join, you must submit a contact form and wait for the team to get in touch, no self-service sign-up.",
       "The gym offers a range of facilities including a pool, sauna, fitness classes, and personal training.",
       "Key membership details such as fees, notice periods, and cancellation methods are entirely absent from the site."
     ],
@@ -3748,10 +3748,10 @@
     "pricing_visible_online": true,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "Monthly membership costs \u20ac55/month with a \u20ac29 activation fee; annual membership is \u20ac595 (roughly \u20ac49.58/month).",
+      "Monthly membership costs €55/month with a €29 activation fee; annual membership is €595 (roughly €49.58/month).",
       "Pricing is clearly listed online, but there are no terms, cancellation policy, or contract details available on the website.",
       "No information is provided about how to cancel, notice periods, or whether memberships auto-renew.",
-      "Discounted rates are available for students, OAPs, and members of the Deaf community, all with the same \u20ac29 activation fee."
+      "Discounted rates are available for students, OAPs, and members of the Deaf community, all with the same €29 activation fee."
     ],
     "dark_pattern_flags": [
       "hidden_joining_fee",
@@ -3892,7 +3892,7 @@
     "pricing_visible_online": true,
     "terms_easily_found": true,
     "plain_english_summary": [
-      "Life Balance operates on a pay-per-class or class bundle (10-class pack) basis \u2014 there is no ongoing monthly membership or contract.",
+      "Life Balance operates on a pay-per-class or class bundle (10-class pack) basis, there is no ongoing monthly membership or contract.",
       "Class bundles expire 6 months from first use and are strictly non-refundable, non-transferable, and cannot be suspended or extended for any reason.",
       "Individual class cancellations must be made at least 24 hours in advance via the online booking system or by phone; late cancellations or no-shows are charged as attended.",
       "Treatment cancellations require 24 hours notice; cancellations within that window incur a 50% fee."
@@ -3985,7 +3985,7 @@
     "pricing_visible_online": false,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "No pricing is publicly listed on the website \u2014 you must contact the club directly or enquire in person to get membership rates.",
+      "No pricing is publicly listed on the website, you must contact the club directly or enquire in person to get membership rates.",
       "Multiple membership tiers are mentioned (Full Individual, Couple/Family, Off Peak, Corporate/Student, Golden Years) but no costs are shown.",
       "Cancellation terms, notice periods, and contract length are not disclosed anywhere on the website.",
       "A Terms & Conditions page is linked in the footer but cancellation policy details were not available in the provided text."
@@ -4078,10 +4078,10 @@
     "pricing_visible_online": false,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "McCrudden Fitness is a community gym currently in transition \u2014 it closed its Tyrrelstown location and is setting up a new premises in Greenogue, Rathcoole/Newcastle, Co. Dublin.",
+      "McCrudden Fitness is a community gym currently in transition, it closed its Tyrrelstown location and is setting up a new premises in Greenogue, Rathcoole/Newcastle, Co. Dublin.",
       "The website is a 'Coming Soon' placeholder with no pricing, membership terms, or cancellation policy published.",
       "When the gym closed its previous location, all memberships were cancelled and refunds were issued for unused periods.",
-      "No contract, pricing, or policy information is available online at this time \u2014 interested members should contact the gym directly via email or WhatsApp."
+      "No contract, pricing, or policy information is available online at this time, interested members should contact the gym directly via email or WhatsApp."
     ],
     "dark_pattern_flags": [],
     "difficulty_score": null,
@@ -4167,7 +4167,7 @@
     "terms_easily_found": false,
     "plain_english_summary": [
       "No joining fee is advertised, with a promotional 50% off the first month using code DL50.",
-      "Membership pricing is not clearly displayed on the website \u2014 you must click through to the join page.",
+      "Membership pricing is not clearly displayed on the website, you must click through to the join page.",
       "The website describes 'flexible memberships' but provides no explicit details on contract length, notice periods, or cancellation process.",
       "Very little cancellation or terms information is available on this page, making it difficult to assess the full commitment involved."
     ],
@@ -4178,7 +4178,7 @@
     "difficulty_score": 5,
     "transparency_score": 2,
     "data_confidence": "low",
-    "gym_name": "\u00e9nergie Fitness",
+    "gym_name": "énergie Fitness",
     "slug": "nergie_fitness",
     "website": "https://www.energiefitness.com/dun-laoghaire",
     "lat": 53.2943388,
@@ -4213,10 +4213,10 @@
     "pricing_visible_online": true,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "Standard membership costs \u20ac65/month (or \u20ac55/month for students and over 60s), with a Pay As You Go 2-day pass available for \u20ac20.",
-      "Joining must be done in person at reception \u2014 no online sign-up for monthly subscriptions.",
+      "Standard membership costs €65/month (or €55/month for students and over 60s), with a Pay As You Go 2-day pass available for €20.",
+      "Joining must be done in person at reception, no online sign-up for monthly subscriptions.",
       "No cancellation policy, notice period, or contract terms are publicly available on the website.",
-      "T&Cs are referenced on the membership page but no terms document is accessible \u2014 all relevant sub-pages return 404 errors."
+      "T&Cs are referenced on the membership page but no terms document is accessible, all relevant sub-pages return 404 errors."
     ],
     "dark_pattern_flags": [
       "buried_terms",
@@ -4262,7 +4262,7 @@
     "pricing_visible_online": true,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "Multiple membership types available: rolling monthly (\u20ac129/mo), 3-month (\u20ac109/mo), 6-month (\u20ac99/mo) for JustGYM, and CrossFit memberships from \u20ac229/mo with 3, 6, or 12-month contracts.",
+      "Multiple membership types available: rolling monthly (€129/mo), 3-month (€109/mo), 6-month (€99/mo) for JustGYM, and CrossFit memberships from €229/mo with 3, 6, or 12-month contracts.",
       "After the initial fixed-term contract ends, membership automatically rolls into a monthly arrangement requiring 30 days notice to cancel.",
       "Freeze options are available on 6-month and 12-month studio credit memberships, though no fee or duration limits are explicitly stated.",
       "The membership terms page returns a 404 error, making it difficult to find full cancellation and contract details."
@@ -4315,9 +4315,9 @@
     "terms_easily_found": true,
     "plain_english_summary": [
       "Studio memberships have a minimum 3-month lock-in period during which you cannot cancel or pause your membership.",
-      "After the initial 3 months, membership rolls monthly and requires at least 30 days' written notice to cancel \u2014 if your next payment is within 30 days, that payment will still be processed.",
+      "After the initial 3 months, membership rolls monthly and requires at least 30 days' written notice to cancel, if your next payment is within 30 days, that payment will still be processed.",
       "A 7-day cooling-off period applies by law, but is forfeited once you book a class.",
-      "Late cancellations and no-shows on unlimited memberships incur a \u20ac5 fee per instance."
+      "Late cancellations and no-shows on unlimited memberships incur a €5 fee per instance."
     ],
     "dark_pattern_flags": [
       "auto_renewal",
@@ -4362,7 +4362,7 @@
     "pricing_visible_online": true,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "Membership costs \u20ac175/month (\u20ac120/month for full-time students), with pricing visible on the website.",
+      "Membership costs €175/month (€120/month for full-time students), with pricing visible on the website.",
       "No cancellation policy, contract terms, or notice period information is provided on the site.",
       "Contact is available via phone or email (info@crossfit536.ie), but no dedicated cancellation process is described.",
       "A free no-commitment assessment is offered, but formal membership terms are absent from the website."
@@ -4412,9 +4412,9 @@
     "pricing_visible_online": true,
     "terms_easily_found": true,
     "plain_english_summary": [
-      "Monthly membership is \u20ac43/month with no joining fee and no fixed contract \u2014 cancel anytime with 7 days written notice by email or at reception.",
+      "Monthly membership is €43/month with no joining fee and no fixed contract, cancel anytime with 7 days written notice by email or at reception.",
       "Membership auto-renews monthly and payments are taken on the same date each month as your original join date.",
-      "An annual membership option is available for \u20ac439 upfront with no registration fee.",
+      "An annual membership option is available for €439 upfront with no registration fee.",
       "The gym can change membership fees with at least 10 working days notice; if you disagree with a fee increase you can cancel but must still pay the increased fee until membership ends."
     ],
     "dark_pattern_flags": [
@@ -4472,7 +4472,7 @@
     "website": "https://www.platinumpilates.ie/studios/glenageary",
     "lat": 53.2826677,
     "lng": -6.1448711,
-    "address": "Skipton D\u00fan Laoghaire",
+    "address": "Skipton Dún Laoghaire",
     "google_maps_url": "https://www.google.com/maps?q=53.2826677,-6.1448711",
     "image_url": "http://static1.squarespace.com/static/6080772991acee0c19e06ae7/t/60c7cbf80ff73c2b893b9995/1623706616839/Platinum_hero.jpg?format=1500w",
     "image_urls": [
@@ -4504,7 +4504,7 @@
     "pricing_visible_online": true,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "Membership costs \u20ac169 per month and includes unlimited classes, gym floor, and thermal suite access.",
+      "Membership costs €169 per month and includes unlimited classes, gym floor, and thermal suite access.",
       "No cancellation process, notice period, or contract type is publicly disclosed on the website.",
       "The membership terms page returns a 404 error, making it impossible to review full contract terms.",
       "Cancellation and freeze policies are entirely absent from the website, leaving members in the dark."
@@ -4554,10 +4554,10 @@
     "pricing_visible_online": false,
     "terms_easily_found": true,
     "plain_english_summary": [
-      "Minimum 3-month lock-in applies to all monthly memberships \u2014 you cannot cancel before this period ends regardless of circumstances.",
-      "After the initial 3 months, you must give one full calendar month's written notice to cancel, and you cannot cancel online or via the app \u2014 you must contact the club directly.",
+      "Minimum 3-month lock-in applies to all monthly memberships, you cannot cancel before this period ends regardless of circumstances.",
+      "After the initial 3 months, you must give one full calendar month's written notice to cancel, and you cannot cancel online or via the app, you must contact the club directly.",
       "Memberships auto-renew monthly on the 8th of each month, and payments are non-refundable for partially used periods.",
-      "You can freeze your membership for up to 1 month per calendar year for a \u20ac15 fee, but any freeze during the initial 3-month term extends the lock-in period."
+      "You can freeze your membership for up to 1 month per calendar year for a €15 fee, but any freeze during the initial 3-month term extends the lock-in period."
     ],
     "dark_pattern_flags": [
       "auto_renewal",
@@ -4649,7 +4649,7 @@
     "terms_easily_found": true,
     "plain_english_summary": [
       "Pure Health is a boutique yoga, pilates and massage studio in Dublin 15, not a traditional gym.",
-      "An on-demand/livestream subscription is available for \u20ac48/month; other membership/pricing details are not clearly listed on the website.",
+      "An on-demand/livestream subscription is available for €48/month; other membership/pricing details are not clearly listed on the website.",
       "Classes and membership fees are stated to be non-refundable once a course has started.",
       "A cancellation policy exists for class bookings (3-hour notice) and massage appointments (24-hour notice), with no-show and late cancel fees applied."
     ],
@@ -4708,7 +4708,7 @@
     "difficulty_score": 4,
     "transparency_score": 3,
     "data_confidence": "low",
-    "gym_name": "R\u00f3nin CrossFit",
+    "gym_name": "Rónin CrossFit",
     "slug": "r_nin_crossfit",
     "website": "https://www.ronincrossfit.ie/",
     "lat": 53.3635709,
@@ -4839,7 +4839,7 @@
       "Re:charge Fitness Centre is a hotel gym located within the Aloft by Marriott Dublin City hotel, open 24/7.",
       "No membership pricing, contract terms, or cancellation policies are published on the website.",
       "Access appears to be primarily for hotel guests; external memberships, if offered, require calling the hotel.",
-      "No policy information could be extracted \u2014 contact the hotel directly at +353 1-9631800 or guest.relations@aloftdublincity.com for details."
+      "No policy information could be extracted, contact the hotel directly at +353 1-9631800 or guest.relations@aloftdublincity.com for details."
     ],
     "dark_pattern_flags": [],
     "difficulty_score": null,
@@ -5085,7 +5085,7 @@
     "website": "https://resultsfitness.ie/",
     "lat": 53.2827002,
     "lng": -6.1448372,
-    "address": "Skipton D\u00fan Laoghaire",
+    "address": "Skipton Dún Laoghaire",
     "google_maps_url": "https://www.google.com/maps?q=53.2827002,-6.1448372",
     "image_url": null,
     "image_urls": [
@@ -5115,7 +5115,7 @@
     "pricing_visible_online": false,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "The gym's website is not functioning \u2014 all pages return a domain connection error.",
+      "The gym's website is not functioning, all pages return a domain connection error.",
       "No pricing, membership terms, or cancellation information is accessible online.",
       "It is impossible to assess any policies without a working website.",
       "Prospective members would need to contact the gym directly for any information."
@@ -5208,9 +5208,9 @@
     "pricing_visible_online": true,
     "terms_easily_found": true,
     "plain_english_summary": [
-      "Monthly membership costs \u20ac65/month with a one-off \u20ac35 admin fee; annual membership is \u20ac650 with no joining fee.",
+      "Monthly membership costs €65/month with a one-off €35 admin fee; annual membership is €650 with no joining fee.",
       "Membership is rolling monthly with no contract and renews automatically each month.",
-      "Cancellation can be done online via a cancellation form on the website \u2014 no need to visit in person.",
+      "Cancellation can be done online via a cancellation form on the website, no need to visit in person.",
       "No notice period or early termination fee is explicitly stated; pricing and T&Cs are clearly visible on the website."
     ],
     "dark_pattern_flags": [
@@ -5302,10 +5302,10 @@
     "pricing_visible_online": true,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "Monthly direct debit membership costs \u20ac40/month with a 6-month minimum contract and a \u20ac15 admin fee.",
-      "A 3-month prepaid option is available for \u20ac146, and an annual option for \u20ac400 with no admin fee.",
+      "Monthly direct debit membership costs €40/month with a 6-month minimum contract and a €15 admin fee.",
+      "A 3-month prepaid option is available for €146, and an annual option for €400 with no admin fee.",
       "No cancellation, freeze, or full terms and conditions pages are accessible on the website.",
-      "Cancellation process is unclear \u2014 contact details (email/phone) are available but no formal cancellation procedure is described."
+      "Cancellation process is unclear, contact details (email/phone) are available but no formal cancellation procedure is described."
     ],
     "dark_pattern_flags": [
       "hidden_joining_fee",
@@ -5351,7 +5351,7 @@
     "pricing_visible_online": false,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "No website content could be retrieved \u2014 all pages returned 404 errors.",
+      "No website content could be retrieved, all pages returned 404 errors.",
       "No pricing, contract, or cancellation information is publicly available online.",
       "Membership terms and conditions are completely inaccessible via the listed website.",
       "Prospective members would need to contact the gym directly to obtain any policy information."
@@ -5396,7 +5396,7 @@
     "terms_easily_found": false,
     "plain_english_summary": [
       "No pricing, contract, or cancellation information could be found on the website.",
-      "Synergise appears to be a personal training studio \u2014 terms likely discussed directly with the trainer.",
+      "Synergise appears to be a personal training studio, terms likely discussed directly with the trainer.",
       "Prospective members should contact the business directly to understand membership terms.",
       "Transparency is very low as no policy details are publicly available online."
     ],
@@ -5443,7 +5443,7 @@
     "plain_english_summary": [
       "No pricing, contract terms, or cancellation policy are publicly available on the website.",
       "The Terms & Conditions page covers liability and data privacy but contains no detail on fees, notice periods, or how to cancel.",
-      "Membership enquiries require submitting a contact form to speak with a trainer \u2014 no self-service sign-up or cancellation process is visible.",
+      "Membership enquiries require submitting a contact form to speak with a trainer, no self-service sign-up or cancellation process is visible.",
       "The cancellation and contract pages do not exist, making it very difficult to understand your rights before committing."
     ],
     "dark_pattern_flags": [
@@ -5532,7 +5532,7 @@
     "pricing_visible_online": false,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "Pricing is not published online \u2014 you must fill out a form and speak to a team member to get any pricing information.",
+      "Pricing is not published online, you must fill out a form and speak to a team member to get any pricing information.",
       "TPC operates on bespoke training packages rather than standard gym memberships; contract terms and cancellation policies are not disclosed publicly.",
       "Entry is via a 28-Day Challenge trial, but no pricing, cancellation, or contract details for that trial are stated on the website.",
       "A double money-back guarantee is mentioned but no details about cancellation process, notice periods, or contract length are provided."
@@ -5550,7 +5550,7 @@
     "website": "https://thephysiqueconsultants.com",
     "lat": 53.275167,
     "lng": -6.1577028,
-    "address": "D\u00fan Laoghaire",
+    "address": "Dún Laoghaire",
     "google_maps_url": "https://www.google.com/maps?q=53.275167,-6.1577028",
     "image_url": null,
     "image_urls": [
@@ -5582,7 +5582,7 @@
     "plain_english_summary": [
       "The Space Between operates on a pay-as-you-go or class pass model with no mention of recurring memberships or contracts.",
       "Class passes are non-refundable, non-transferrable, and must be used by the purchaser before the expiration date.",
-      "The cancellation policy refers only to cancelling individual class or workshop bookings, not membership cancellation \u2014 at least 6 hours notice for classes and 3 days for workshops.",
+      "The cancellation policy refers only to cancelling individual class or workshop bookings, not membership cancellation, at least 6 hours notice for classes and 3 days for workshops.",
       "Pricing is listed online but no specific monthly membership prices or joining fees are stated in the available text."
     ],
     "dark_pattern_flags": [
@@ -5626,7 +5626,7 @@
     "pricing_visible_online": false,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "The Yoga Room is currently paused \u2014 all classes and training programmes are on hold.",
+      "The Yoga Room is currently paused, all classes and training programmes are on hold.",
       "No membership, pricing, or cancellation information is available on the website.",
       "The only contact provided is an email for teacher training certification enquiries.",
       "It is not possible to assess cancellation policies as the gym appears to be inactive."
@@ -5666,8 +5666,8 @@
     "pricing_visible_online": false,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "Membership pricing is not publicly listed on the website \u2014 you must contact or visit the gym to get full details.",
-      "Public membership is advertised as starting from \u20ac1.85 per day, but no monthly or annual pricing breakdown is provided.",
+      "Membership pricing is not publicly listed on the website, you must contact or visit the gym to get full details.",
+      "Public membership is advertised as starting from €1.85 per day, but no monthly or annual pricing breakdown is provided.",
       "Cancellation policy, contract terms, and notice period information are not available on the website.",
       "To get membership information, you are directed to book a club tour or fill in an enquiry form."
     ],
@@ -5759,9 +5759,9 @@
     "pricing_visible_online": true,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "Monthly membership costs \u20ac54.99/month with a \u20ac50 admin (joining) fee; annual membership is \u20ac549 with no admin fee.",
+      "Monthly membership costs €54.99/month with a €50 admin (joining) fee; annual membership is €549 with no admin fee.",
       "A 30-day cancellation notice is required, explicitly mentioned for the Junior membership and implied for others.",
-      "Cancellation and freeze requests are handled via an external Ashbourne Management online form \u2014 no dedicated cancellation page on the gym's own site.",
+      "Cancellation and freeze requests are handled via an external Ashbourne Management online form, no dedicated cancellation page on the gym's own site.",
       "No detailed terms and conditions or cancellation policy page is publicly available on the website."
     ],
     "dark_pattern_flags": [
@@ -5856,10 +5856,10 @@
     "pricing_visible_online": true,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "Direct debit membership costs \u20ac47.50/month and renews automatically each month until cancelled.",
-      "Cancellation requires a calendar month's notice \u2014 no further details on method are provided on the website.",
+      "Direct debit membership costs €47.50/month and renews automatically each month until cancelled.",
+      "Cancellation requires a calendar month's notice, no further details on method are provided on the website.",
       "Pay-as-you-go options (1, 3, 6, or 12 months) are also available as one-off payments with no ongoing commitment.",
-      "No dedicated terms, cancellation, or contract pages exist \u2014 all such URLs return 404 errors, leaving key policy details unclear."
+      "No dedicated terms, cancellation, or contract pages exist, all such URLs return 404 errors, leaving key policy details unclear."
     ],
     "dark_pattern_flags": [
       "auto_renewal",
@@ -5904,7 +5904,7 @@
     "pricing_visible_online": true,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "Direct debit membership is \u20ac47.50/month, recurring automatically, and can be cancelled with one calendar month's notice.",
+      "Direct debit membership is €47.50/month, recurring automatically, and can be cancelled with one calendar month's notice.",
       "Pay-as-you-go options are available for 1, 3, or 12 months with no ongoing commitment.",
       "Pricing is clearly listed online, but full terms and conditions pages return 404 errors and are inaccessible.",
       "No cancellation method (email, online form, in-person) is explicitly stated on the website."
@@ -6001,9 +6001,9 @@
     "pricing_visible_online": true,
     "terms_easily_found": true,
     "plain_english_summary": [
-      "An intro offer of \u20ac69 for 30 days unlimited classes is advertised, but regular membership pricing is not clearly listed on the crawled pages.",
+      "An intro offer of €69 for 30 days unlimited classes is advertised, but regular membership pricing is not clearly listed on the crawled pages.",
       "Membership terms and conditions exist at a separate URL but detailed cancellation and membership policy specifics were not fully captured in the crawled content.",
-      "Class cancellations must be made at least 3\u20136 hours before class; repeated late cancellations can result in account suspension.",
+      "Class cancellations must be made at least 3–6 hours before class; repeated late cancellations can result in account suspension.",
       "Contact for membership queries and cancellations can be made via email at info@yogadublin.com or by phone."
     ],
     "dark_pattern_flags": [
@@ -6095,10 +6095,10 @@
     "pricing_visible_online": true,
     "terms_easily_found": true,
     "plain_english_summary": [
-      "Month-to-month membership costs \u20ac129/month and auto-renews; cancellation is only available after a 3-month minimum commitment.",
-      "To cancel, you must request a cancellation form via the studio email and give 10 days' notice; immediate cancellation costs \u20ac50.",
+      "Month-to-month membership costs €129/month and auto-renews; cancellation is only available after a 3-month minimum commitment.",
+      "To cancel, you must request a cancellation form via the studio email and give 10 days' notice; immediate cancellation costs €50.",
       "Membership can be suspended for up to 20 days; special offers and intro deals cannot be paused or suspended.",
-      "Late class cancellations (within 6 hours) incur a \u20ac5 fee for members, and class passes are forfeited for no-shows."
+      "Late class cancellations (within 6 hours) incur a €5 fee for members, and class passes are forfeited for no-shows."
     ],
     "dark_pattern_flags": [
       "auto_renewal",
@@ -6147,10 +6147,10 @@
     "pricing_visible_online": true,
     "terms_easily_found": true,
     "plain_english_summary": [
-      "Month-to-month membership costs \u20ac129/month, renews automatically, and requires a minimum 3-month commitment before cancellation is allowed.",
-      "10 days' notice is required to cancel via a cancellation form requested by email; you can cancel immediately for a \u20ac50 fee.",
+      "Month-to-month membership costs €129/month, renews automatically, and requires a minimum 3-month commitment before cancellation is allowed.",
+      "10 days' notice is required to cancel via a cancellation form requested by email; you can cancel immediately for a €50 fee.",
       "Membership can be suspended for up to 20 days; introductory and discounted offers cannot be paused or suspended.",
-      "Late class cancellations (within 6 hours of class) incur a \u20ac5 fee for members, or a forfeited class for pass holders."
+      "Late class cancellations (within 6 hours of class) incur a €5 fee for members, or a forfeited class for pass holders."
     ],
     "dark_pattern_flags": [
       "auto_renewal",
@@ -6198,10 +6198,10 @@
     "pricing_visible_online": true,
     "terms_easily_found": true,
     "plain_english_summary": [
-      "Month-to-month membership costs \u20ac129/month and renews automatically \u2014 you must complete a minimum of 3 months before cancelling.",
-      "To cancel, you must give 10 days' notice by requesting a cancellation form via the studio email; immediate cancellation is available for a \u20ac50 fee.",
+      "Month-to-month membership costs €129/month and renews automatically, you must complete a minimum of 3 months before cancelling.",
+      "To cancel, you must give 10 days' notice by requesting a cancellation form via the studio email; immediate cancellation is available for a €50 fee.",
       "Memberships can be suspended for up to 20 days; introductory offers and special deals cannot be paused or suspended.",
-      "Late class cancellations (within 6 hours) incur a \u20ac5 fee for members, and class passes are forfeited if not cancelled in time."
+      "Late class cancellations (within 6 hours) incur a €5 fee for members, and class passes are forfeited if not cancelled in time."
     ],
     "dark_pattern_flags": [
       "auto_renewal",
@@ -6249,10 +6249,10 @@
     "pricing_visible_online": true,
     "terms_easily_found": true,
     "plain_english_summary": [
-      "Month-to-month membership costs \u20ac129/month and renews automatically \u2014 you must complete at least 3 months before cancelling.",
-      "To cancel, you must give 10 days' notice by requesting a cancellation form via the studio email; immediate cancellation costs \u20ac50.",
+      "Month-to-month membership costs €129/month and renews automatically, you must complete at least 3 months before cancelling.",
+      "To cancel, you must give 10 days' notice by requesting a cancellation form via the studio email; immediate cancellation costs €50.",
       "Memberships can be suspended (frozen) for up to 20 days, but introductory and discounted offers cannot be paused at all.",
-      "Late class cancellations (under 6 hours) incur a \u20ac5 fee for members; class passes and memberships are generally non-refundable."
+      "Late class cancellations (under 6 hours) incur a €5 fee for members; class passes and memberships are generally non-refundable."
     ],
     "dark_pattern_flags": [
       "auto_renewal",
@@ -6301,10 +6301,10 @@
     "pricing_visible_online": true,
     "terms_easily_found": true,
     "plain_english_summary": [
-      "Month-to-month membership costs \u20ac129/month and renews automatically \u2014 you must complete at least 3 months before cancelling.",
-      "To cancel, you need to request a cancellation form via the studio email and give 10 days' notice; immediate cancellation costs \u20ac50.",
+      "Month-to-month membership costs €129/month and renews automatically, you must complete at least 3 months before cancelling.",
+      "To cancel, you need to request a cancellation form via the studio email and give 10 days' notice; immediate cancellation costs €50.",
       "Membership can be suspended for up to 20 days, but introductory and discounted offers cannot be paused or suspended.",
-      "Late class cancellations (under 6 hours) incur a \u20ac5 fee for members, and class passes are forfeited for no-shows."
+      "Late class cancellations (under 6 hours) incur a €5 fee for members, and class passes are forfeited for no-shows."
     ],
     "dark_pattern_flags": [
       "auto_renewal",
@@ -6350,7 +6350,7 @@
     "pricing_visible_online": false,
     "terms_easily_found": false,
     "plain_english_summary": [
-      "Yoganamara is a small yoga studio in North County Dublin offering drop-in classes and courses \u2014 no membership model is evident.",
+      "Yoganamara is a small yoga studio in North County Dublin offering drop-in classes and courses, no membership model is evident.",
       "Classes must be booked and paid in advance; prepaid classes and courses are non-refundable once purchased.",
       "No cancellation, membership, or subscription policy information is available on the website.",
       "Pricing for classes is not clearly displayed; you must navigate to the booking/shop section to find any cost information."
