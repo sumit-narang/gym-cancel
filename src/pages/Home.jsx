@@ -167,7 +167,7 @@ export default function Home() {
           <div className="hidden md:flex items-center gap-3 ml-auto">
             <input
               type="text"
-              placeholder="Search gyms..."
+              placeholder="Search gym"
               value={search}
               onChange={e => setSearch(e.target.value)}
               className="w-[200px] shrink-0 bg-white border border-black/10 rounded-xl px-3 py-2 text-sm outline-none focus:border-black/30 focus:ring-2 focus:ring-black/10"
@@ -287,7 +287,7 @@ export default function Home() {
           <p style={{ fontSize: 13, fontWeight: 500, color: 'rgba(0,0,0,0.45)', letterSpacing: '-0.2px', marginBottom: 8 }}>Search</p>
           <input
             type="text"
-            placeholder="Search gyms..."
+            placeholder="Search gym"
             value={search}
             onChange={e => setSearch(e.target.value)}
             style={{ width: '100%', border: '1px solid rgba(0,0,0,0.10)', borderRadius: 12, padding: '10px 14px', fontSize: 14, outline: 'none', marginBottom: 20, fontFamily: 'Inter, system-ui, sans-serif', color: '#000' }}
